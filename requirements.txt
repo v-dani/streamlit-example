@@ -2,3 +2,8 @@ altair
 pandas
 streamlit
 yfinance
+datetime 
+talib 
+ta
+pandas
+requests
